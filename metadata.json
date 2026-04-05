@@ -1,0 +1,5 @@
+{
+  "name": "JCIM Derby Finance Desk",
+  "description": "Financial management system for JCIM Derby church, tracking services, cash counts, expenses, and bank reconciliation.",
+  "requestFramePermissions": []
+}
